@@ -1,5 +1,5 @@
 <hr>
-CREATE DATABASE desafio2_Cristian_Venegas_344 <br>
+CREATE DATABASE emonsalves <br>
 <hr>
 CREATE TABLE IF NOT EXISTS INSCRITOS(cantidad INT, fecha DATE, fuente VARCHAR); <br>
 <hr>
